@@ -11,7 +11,7 @@ Welcome to the **Audiobook Generator**, a custom desktop application designed to
 - **⚙️ Customizable Appearance**: Switch between dark, light, and system themes to suit your style.
 - **Real-time Text Preview**: See your document’s text before converting, ensuring you get exactly what you need.
 
-🎉 How to Use
+## 🎉 How to Use
 1. Pick a Mode: Choose between "PDF to Audio" or "Text to Audio" in the sidebar.
 2. Upload a File or Type Text: For PDFs, upload a .pdf or .docx file. For text, directly type into the text editor.
 3. Select Your Language: Pick from a variety of languages for the output audiobook.
