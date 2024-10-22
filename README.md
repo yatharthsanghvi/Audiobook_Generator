@@ -12,12 +12,12 @@ Welcome to the **Audiobook Generator**, a custom desktop application designed to
 - **Real-time Text Preview**: See your document’s text before converting, ensuring you get exactly what you need.
 
 ## 🎉 How to Use
-1. Pick a Mode: Choose between "PDF to Audio" or "Text to Audio" in the sidebar.
-2. Upload a File or Type Text: For PDFs, upload a .pdf or .docx file. For text, directly type into the text editor.
-3. Select Your Language: Pick from a variety of languages for the output audiobook.
-4. Generate: Click the "Generate Audiobook" button and watch the magic happen!
-5. Listen: Use the built-in player to preview your audiobook.
-6. Save & Share: Save your masterpiece as an MP3 file to share with friends or listen offline.
+- **Pick a Mode**: Choose between "PDF to Audio" or "Text to Audio" in the sidebar.
+- **Upload a File or Type Text**: For PDFs, upload a .pdf or .docx file. For text, directly type into the text editor.
+- **Select Your Language**: Pick from a variety of languages for the output audiobook.
+- **Generate**: Click the "Generate Audiobook" button and watch the magic happen!
+- **Listen**: Use the built-in player to preview your audiobook.
+- **Save & Share**: Save your masterpiece as an MP3 file to share with friends or listen offline.
 
 ## ✨ Why You'll Love It
 - **Fast & Convenient**: Generate audiobooks in just a few steps, perfect for busy students or casual readers.
