@@ -32,5 +32,5 @@ Welcome to the **Audiobook Generator**, a custom desktop application designed to
 - **googletrans**: Translating text into various languages.
 - **Pygame**: Powering the built-in audio playback functionality.
 
-## 📥 Download
+## 📥 [Download](https://github.com/yatharthsanghvi/Audiobook_Generator/releases/tag/v1.0)
 - You can download the executable file [here](https://github.com/yatharthsanghvi/Audiobook_Generator/releases/tag/v1.0). Enjoy your personalized audiobook experience!
