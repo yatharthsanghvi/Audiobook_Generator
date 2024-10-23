@@ -1,6 +1,6 @@
 # 🎧 Audiobook Generator: Your Personal Storyteller
 
-Welcome to the **Audiobook Generator**, a custom desktop application designed to transform PDFs and text files into immersive audiobooks! Whether you're converting study materials, a favorite book, or even your personal notes, this tool empowers you to turn written words into spoken ones with just a few clicks.
+Welcome to the **Audiobook Generator**, a custom desktop application designed to transform PDFs into immersive audiobooks! Whether you're converting study materials, a favorite book, or even your personal notes, this tool empowers you to turn written words into spoken ones with just a few clicks.
 
 ## 🚀 Features That Speak for Themselves
 
